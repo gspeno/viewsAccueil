@@ -54,4 +54,11 @@ public class FAccueilController {
         FArticlesView laFenetre = new FArticlesView(this);
         laFenetre.setVisible(true);
     }
+    /* //A implémenter par la suite
+    protected void afficherCommandes() {
+        FCommandesView laFenetreC = new FCommandesView(this);
+        laFenetreC.setVisible(true);
+    }
+
+    */
 }
